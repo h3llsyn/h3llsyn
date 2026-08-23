@@ -3,6 +3,7 @@
 # Oi, eu sou a Laví 👋
 
 **Desenvolvedora Mobile** • Estudante de Desenvolvimento de Sistemas (SENAI).
+
 Curto transformar interfaces em experiências fluidas, com atenção a cada detalhe do layout.
 
 </div>
