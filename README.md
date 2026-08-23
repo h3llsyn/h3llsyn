@@ -5,10 +5,6 @@
 **Desenvolvedora Mobile** • Estudante de Desenvolvimento de Sistemas (SENAI)
 Curto transformar interfaces em experiências fluidas, com atenção a cada detalhe do layout.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6961&center=true&vCenter=true&width=460&lines=Flutter+%2B+Dart;Mobile+UI%2FUX+com+carinho+pelos+detalhes;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-
-</div>
-
 ---
 
 ## 🚀 Sobre mim
