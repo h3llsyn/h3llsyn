@@ -5,8 +5,6 @@
 **Desenvolvedora Mobile** • Estudante de Desenvolvimento de Sistemas (SENAI)
 Curto transformar interfaces em experiências fluidas, com atenção a cada detalhe do layout.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6961&center=true&vCenter=true&width=460&lines=Flutter+%2B+Dart;Mobile+UI%2FUX+com+carinho+pelos+detalhes;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -23,7 +21,7 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 
 ## 🧰 Linguagens & Tecnologias
 
-<div align="left">
+<div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -84,7 +82,7 @@ Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em *
 
 ## 📫 Contato
 
-<div align="left">
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h3llsyn)
