@@ -1,9 +1,13 @@
-<div align="center">
+<div align="left">
 
 # Oi, eu sou a Laví 👋
 
 **Desenvolvedora Mobile** • Estudante de Desenvolvimento de Sistemas (SENAI)
 Curto transformar interfaces em experiências fluidas, com atenção a cada detalhe do layout.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6961&center=true&vCenter=true&width=460&lines=Flutter+%2B+Dart;Mobile+UI%2FUX+com+carinho+pelos+detalhes;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -19,7 +23,7 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 
 ## 🧰 Linguagens & Tecnologias
 
-<div align="center">
+<div align="left">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -67,20 +71,20 @@ Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em *
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h3llsyn&show_icons=true&theme=default&title_color=FF6961&icon_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3llsyn&theme=default&background=FFFFFF&stroke=FF6961&ring=FF6961&fire=FF6961&currStreakLabel=5D201C&sideLabels=5D201C&dates=5D201C&border=FF6961" alt="GitHub Streak" height="165"/>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=h3llsyn&show_icons=true&theme=default&title_color=FF6961&icon_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=h3llsyn&theme=default&background=FFFFFF&stroke=FF6961&ring=FF6961&fire=FF6961&currStreakLabel=5D201C&sideLabels=5D201C&dates=5D201C&border=FF6961" alt="GitHub Streak" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3llsyn&layout=compact&theme=default&title_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=h3llsyn&layout=compact&theme=default&title_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
 
 ## 📫 Contato
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h3llsyn)
