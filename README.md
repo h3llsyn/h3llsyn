@@ -69,12 +69,12 @@ Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em *
 
 ## 📊 Estatísticas
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=h3llsyn&show_icons=true&theme=default&title_color=FF6961&icon_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=h3llsyn&theme=default&background=FFFFFF&stroke=FF6961&ring=FF6961&fire=FF6961&currStreakLabel=5D201C&sideLabels=5D201C&dates=5D201C&border=FF6961" alt="GitHub Streak" height="165"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=h3llsyn&layout=compact&theme=default&title_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="Top Languages" />
 </div>
 
