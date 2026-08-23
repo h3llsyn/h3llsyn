@@ -86,10 +86,7 @@ Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em *
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h3llsyn)
 
-</div>
-
-<div align="center">
-  <sub>Feito com café ☕ e alguns bugs de scroll controller resolvidos no processo.</sub>
 </div>
