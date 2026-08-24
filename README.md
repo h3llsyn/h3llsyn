@@ -13,7 +13,7 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 
 - 🎓 Estudante de **Sistemas de Desenvolvimento** — SENAI
 - 📱 Foco em **desenvolvimento mobile com Flutter e Dart**
-- 🎨 Curto muito **UI/UX mobile** — design systems consistentes, telas bem pensadas e detalhes que fazem diferença
+- 🎨 Gosto muito de **UI/UX mobile** — design systems consistentes, telas bem pensadas e detalhes que fazem diferença
 - 💻 Atualmente trabalhando no **Nhac**, um app de delivery em Flutter (TCC)
 - 🛠️ Construí do zero o backend do **Bibliotec**, uma plataforma de biblioteca digital
 
