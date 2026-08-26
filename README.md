@@ -55,15 +55,15 @@ Plataforma web de biblioteca digital, com listagem de livros, favoritos e leitur
 
 `HTML` `CSS` `JavaScript`
 
-### 🍎 [Pimbi](https://github.com/h3llsyn/Pimbi) (Em andamento)
-App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** como parte do meu aprendizado em mobile. Ajuda a organizar sessões de foco e pausas e acompanhar a evolução do usuário.
-
-`Flutter` `Dart`
-
 ### 🍽️ [Cantina-10.0](https://github.com/h3llsyn/Cantina-10.0)
 Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em **C# (.NET 8, WinForms)**. Simula o fluxo real de atendimento: tela de **Login**, **Balcão** para montar o pedido com **Carrinho**, escolha de forma de pagamento e se é para viagem, envio do pedido pra tela da **Cozinha** (com persistência via `PedidosPersistencia`), e uma **Tela de Chamada** com atualização automática por timer para avisar o cliente quando o pedido fica pronto. Conta ainda com telas de **Gestão de Produtos** e **Estoque** para cadastro e controle do cardápio.
 
 `C#` `.NET` `WinForms`
+
+### 🍎 [Pimbi](https://github.com/h3llsyn/Pimbi) (Em andamento)
+App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** como parte do meu aprendizado em mobile. Ajuda a organizar sessões de foco e pausas e acompanhar a evolução do usuário.
+
+`Flutter` `Dart`
 
 ---
 
