@@ -9,17 +9,16 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Estudante de **Sistemas de Desenvolvimento** — SENAI
 - 📱 Foco em **desenvolvimento mobile com Flutter e Dart**
 - 🎨 Gosto muito de **UI/UX mobile** — design systems consistentes, telas bem pensadas e detalhes que fazem diferença
 - 💻 Atualmente trabalhando no **Nhac**, um app de delivery em Flutter (TCC)
-- 🛠️ Construí do zero o backend do **Bibliotec**, uma plataforma de biblioteca digital
 
 ---
 
-## 🧰 Linguagens & Tecnologias
+## Linguagens & Tecnologias
 
 <div align="center">
 
@@ -43,7 +42,7 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### 🍔 [Nhac](https://github.com/feentzs/Nhac)
 App de delivery em **Flutter** com backend em **Spring Boot**, pagamentos via **Stripe** e **PIX (Asaas)**. Projeto de TCC — colaboro com testes, ajustes de UX e correções pontuais no backend.
@@ -67,7 +66,7 @@ App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** c
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=h3llsyn&show_icons=true&theme=default&title_color=FF6961&icon_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="GitHub Stats" height="165"/>
@@ -80,7 +79,7 @@ App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** c
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
