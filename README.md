@@ -1,101 +1,88 @@
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6961&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lav%C3%AD+%F0%9F%91%8B;Desenvolvedor+Mobile+%26+Full-Stack;Flutter+%2B+Spring+Boot;Apaixonado+por+UI%2FUX" alt="Typing SVG" />
+# Oi, eu sou a Laví 👋
 
-</div>
-
-<br>
-
-<img align="right" width="40%" src="https://raw.githubusercontent.com/ovi054/ovi054/master/dev.gif" alt="coding gif" />
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Desenvolvimento de Sistemas**
-- 📱 Foco em **Flutter** (mobile) e **Spring Boot** (backend)
-- 🎨 Apaixonado por **UI/UX**, gosto de construir interfaces bonitas e consistentes
-- 🍜 Atualmente desenvolvendo o **Nhac**, um app de delivery de comida (TCC)
-- 🌱 Sempre aprendendo algo novo sobre design de produto e arquitetura mobile
-- 💼 Em busca de oportunidade como **Jovem Aprendiz / Estágio** em Front-end e Mobile
-
-<br clear="right"/>
-
-## 🛠️ Stack
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## ✨ Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍔 Nhac</h3>
-      <p>App de delivery de comida (TCC), com app irmão para lojistas <b>Nhac Lojas</b>.</p>
-      <ul>
-        <li>Flutter + Spring Boot</li>
-        <li>Pagamentos via Stripe e PIX (Asaas)</li>
-        <li>Design system próprio, telas de onboarding completas</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍅 Pimbi</h3>
-      <p>App de Pomodoro em Flutter, com identidade visual própria e mascote.</p>
-      <ul>
-        <li>Redesign completo de telas</li>
-        <li>Foco total em UI/UX</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Sistema de Gestão de Cursos</h3>
-      <p>Aplicação full-stack para gestão de cursos.</p>
-      <ul>
-        <li>Spring Boot + React/TypeScript</li>
-        <li>Deploy com Render e Vercel</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Backend Alunos / Livraria</h3>
-      <p>APIs backend construídas em Node.js/JavaScript para gestão de dados.</p>
-    </td>
-  </tr>
-</table>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h3llsyn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3llsyn&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h3llsyn&theme=radical&hide_border=true" alt="GitHub streak" />
+**Desenvolvedora Mobile** • Estudante de Desenvolvimento de Sistemas (SENAI).\
+Curto transformar interfaces em experiências fluidas, com atenção a cada detalhe do layout.
 
 </div>
 
 ---
 
-## 📫 Contato
+## Sobre mim
+
+- 🎓 Estudante de **Sistemas de Desenvolvimento** — SENAI
+- 📱 Foco em **desenvolvimento mobile com Flutter e Dart**
+- 🎨 Gosto muito de **UI/UX mobile** — design systems consistentes, telas bem pensadas e detalhes que fazem diferença
+- 💻 Atualmente trabalhando no **Nhac**, um app de delivery em Flutter (TCC)
+
+---
+
+## Linguagens & Tecnologias
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/laviniachaved%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
-[![Gmail](https://img.shields.io/badge/lavizsenai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavizsenai@gmail.com)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
+
+## Projetos em destaque
+
+### 🍔 [Nhac](https://github.com/feentzs/Nhac)
+App de delivery em **Flutter** com backend em **Spring Boot**, pagamentos via **Stripe** e **PIX (Asaas)**. Projeto de TCC — colaboro com testes, ajustes de UX e correções pontuais no backend.
+
+`Flutter` `Dart` `Firebase` `Spring Boot`
+
+### 📚 [Bibliotec](https://github.com/lopreti/Bibliotec)
+Plataforma web de biblioteca digital, com listagem de livros, favoritos e leitura. **Backend desenvolvido inteiramente por mim**, em um trabalho em grupo de 3 pessoas.
+
+`HTML` `CSS` `JavaScript`
+
+### 🍽️ [Cantina-10.0](https://github.com/h3llsyn/Cantina-10.0)
+Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em **C# (.NET 8, WinForms)**. Simula o fluxo real de atendimento: tela de **Login**, **Balcão** para montar o pedido com **Carrinho**, escolha de forma de pagamento e se é para viagem, envio do pedido pra tela da **Cozinha** (com persistência via `PedidosPersistencia`), e uma **Tela de Chamada** com atualização automática por timer para avisar o cliente quando o pedido fica pronto. Conta ainda com telas de **Gestão de Produtos** e **Estoque** para cadastro e controle do cardápio.
+
+`C#` `.NET` `WinForms`
+
+### 🍎 [Pimbi](https://github.com/h3llsyn/Pimbi) (Em andamento)
+App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** como parte do meu aprendizado em mobile. Ajuda a organizar sessões de foco e pausas e acompanhar a evolução do usuário.
+
+`Flutter` `Dart`
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=h3llsyn&show_icons=true&theme=default&title_color=FF6961&icon_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=h3llsyn&theme=default&background=FFFFFF&stroke=FF6961&ring=FF6961&fire=FF6961&currStreakLabel=5D201C&sideLabels=5D201C&dates=5D201C&border=FF6961" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=h3llsyn&layout=compact&theme=default&title_color=FF6961&text_color=5D201C&border_color=FF6961&hide_border=false" alt="Top Languages" />
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
+
+</div>
