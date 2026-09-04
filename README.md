@@ -45,9 +45,14 @@ Curto transformar interfaces em experiências fluidas, com atenção a cada deta
 ## Projetos em destaque
 
 ### 🍔 [Nhac](https://github.com/feentzs/Nhac)
-App de delivery em **Flutter** com backend em **Spring Boot**, pagamentos via **Stripe** e **PIX (Asaas)**. Projeto de TCC — colaboro com testes, ajustes de UX e correções pontuais no backend.
+App de delivery em **Flutter** com backend em **Spring Boot**, pagamentos via **Stripe** e **PIX (Asaas)**. Projeto de TCC — colaboro com testes, ajustes de UX, correções pontuais no backend e também desenvolvi o **banco de dados**.
 
 `Flutter` `Dart` `Firebase` `Spring Boot`
+
+### 🏪 [Nhac Lojas](https://github.com/h3llsyn/Nhac-Lojas)
+App parceiro do Nhac voltado para lojistas, em **Flutter**, com fluxo completo de onboarding, gestão de pedidos e integração com o mesmo backend. **Frontend desenvolvido inteiramente por mim.** Parte do mesmo projeto de TCC.
+
+`Flutter` `Dart`
 
 ### 📚 [Bibliotec](https://github.com/lopreti/Bibliotec)
 Plataforma web de biblioteca digital, com listagem de livros, favoritos e leitura. **Backend desenvolvido inteiramente por mim**, em um trabalho em grupo de 3 pessoas.
@@ -58,11 +63,6 @@ Plataforma web de biblioteca digital, com listagem de livros, favoritos e leitur
 Sistema desktop completo de PDV (ponto de venda) para cantina, desenvolvido em **C# (.NET 8, WinForms)**. Simula o fluxo real de atendimento: tela de **Login**, **Balcão** para montar o pedido com **Carrinho**, escolha de forma de pagamento e se é para viagem, envio do pedido pra tela da **Cozinha** (com persistência via `PedidosPersistencia`), e uma **Tela de Chamada** com atualização automática por timer para avisar o cliente quando o pedido fica pronto. Conta ainda com telas de **Gestão de Produtos** e **Estoque** para cadastro e controle do cardápio.
 
 `C#` `.NET` `WinForms`
-
-### 🍎 [Pimbi](https://github.com/h3llsyn/Pimbi) (Em andamento)
-App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** como parte do meu aprendizado em mobile. Ajuda a organizar sessões de foco e pausas e acompanhar a evolução do usuário.
-
-`Flutter` `Dart`
 
 ---
 
@@ -83,6 +83,7 @@ App de produtividade baseado na técnica Pomodoro, desenvolvido em **Flutter** c
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laviniachaved@gmail.com)
 
-</div>
+
+</div>
